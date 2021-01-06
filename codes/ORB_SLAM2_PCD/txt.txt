@@ -1,0 +1,2 @@
+rosbag play ../datasets/d435_17_1.bag /device_0/sensor_1/Color_0/image/data:=/camera/color/image_raw /device_0/sensor_0/Depth_0/image/data:=/camera/aligned_depth_to_color/image_raw
+
